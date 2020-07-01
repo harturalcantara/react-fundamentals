@@ -1,1 +1,3 @@
-#praticas
+# react-fundamentals
+
+Práticas sobre ReactJS.
