@@ -1,8 +1,8 @@
 # React Fundamentals
 
-Some practices about React.
+Some practices about React, the material is available on the 'Cod3r'.
 
-### Get starter
+### Get started
 
 ```bash
 # Clone this repository
@@ -20,3 +20,6 @@ $ yarn start
 # running on port 3000
 ```
 
+## 📝 LICENSE
+
+This project is licensed under the MIT License - see the LICENSE file for details.
